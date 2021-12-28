@@ -7,7 +7,7 @@
 
 ## How to start the app locally
 
-- First you need to create the .env file and add your meaning clould api key. 
+- First you need to create a .env file and add your own meaning clould api key. 
 - And then run the following commands.
 
 ```bash
